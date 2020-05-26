@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "name": "Eragon",
+        "authorId": "1"
+    },
+    {
+        "id": "2",
+        "name": "Harry Potter y la piedra filosofal",
+        "authorId": "2"
+    },
+    {
+        "id": "3",
+        "name": "El hobbit",
+        "authorId": "3"
+    }
+]
